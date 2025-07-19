@@ -1,4 +1,4 @@
-
+//INHERITANCE WITH CONSTRUCTOR
 //Inheritance - extending the characteristics/properties from parent
 // class to child/subclass which will make code reusability
 // KEYWORD - extends (IMPORTANT)
