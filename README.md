@@ -1,0 +1,1 @@
+This repository contains the codes and modules who's preparing for interview to recap or refresh. It's an important step an candidate must go through these basic syntax about how the code works before the attending an interview.
