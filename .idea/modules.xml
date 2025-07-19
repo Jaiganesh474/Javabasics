@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections - Java/Collections - Java.iml" filepath="$PROJECT_DIR$/Collections - Java/Collections - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Java/DSA-Java.iml" filepath="$PROJECT_DIR$/DSA-Java/DSA-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Basics.iml" filepath="$PROJECT_DIR$/.idea/Java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptionhandling/Java Keys.iml" filepath="$PROJECT_DIR$/Exceptionhandling/Java Keys.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />

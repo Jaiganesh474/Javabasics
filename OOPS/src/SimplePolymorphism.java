@@ -19,6 +19,7 @@ class MethodOverridingExample extends MethodOverloadingExample{
 
 
     // Overridden method in derived class
+    //runtime Polymorphism (IMPORTANT DIFFERENCE)
     @Override
     public void printDetails(String name, int rollNo) {
         System.out.println("Display from Derived Class");

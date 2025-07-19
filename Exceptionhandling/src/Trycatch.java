@@ -7,7 +7,7 @@ class MyException extends Exception{
 public class Trycatch {
     public static void main(String a[]) {
         int i=20;
-        int j=0;
+        int j;
 
         try{
             j=18/i;
@@ -16,7 +16,7 @@ public class Trycatch {
         }
 
         catch (MyException e){
-            System.out.println(e);
+            System.out.println(e.getMessage());
         }
         finally{
             System.out.println("C");
