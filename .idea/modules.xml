@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collections - Java/Collections - Java.iml" filepath="$PROJECT_DIR$/Collections - Java/Collections - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control Statements/Control Statements.iml" filepath="$PROJECT_DIR$/Control Statements/Control Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Java/DSA-Java.iml" filepath="$PROJECT_DIR$/DSA-Java/DSA-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIle Handling/FIle Handling.iml" filepath="$PROJECT_DIR$/FIle Handling/FIle Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integers/Integers.iml" filepath="$PROJECT_DIR$/Integers/Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Basics.iml" filepath="$PROJECT_DIR$/.idea/Java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptionhandling/Java Keys.iml" filepath="$PROJECT_DIR$/Exceptionhandling/Java Keys.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticKeyword/StaticKeyword.iml" filepath="$PROJECT_DIR$/StaticKeyword/StaticKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
     </modules>
   </component>
 </project>

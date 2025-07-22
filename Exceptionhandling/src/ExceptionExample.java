@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 //Exception handling in Java
 public class ExceptionExample {
     public static void main(String[] args) {
