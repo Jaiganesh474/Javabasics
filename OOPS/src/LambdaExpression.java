@@ -18,6 +18,7 @@ interface MyLambdaExpressionwithParams {
 @FunctionalInterface
 interface MyLambdaExpressionwithreturn {
     String execute(String message);
+         // This can be added to demonstrate multiple methods, but it won't be a functional interface anymore.
 }
 
 public class LambdaExpression

@@ -26,7 +26,7 @@
 //}
 
 public class Threads {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Runnable a = () -> {
             for (int i = 1; i <= 5; i++) {
                 System.out.println("hi");
@@ -52,6 +52,8 @@ public class Threads {
         Thread t2 = new Thread(b);
         // Start both threads
         t1.start();
+
         t2.start();
+        t2.wait(1000);
     }
 }

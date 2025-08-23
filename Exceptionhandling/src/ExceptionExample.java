@@ -9,13 +9,14 @@ public class ExceptionExample {
         try {
             j = 18 / i;
 
-            if (j==0) throw new MyException("Oops..!! Can't divide by zero");
-        } catch (MyException e) {
-            System.out.println(e.getMessage());
+//            if (j==0) throw new MyException("Oops..!! Can't divide by zero");
+            System.out.println("A");
+        } catch (Exception e) {
+            System.out.println("B");
         }
-        catch (ArithmeticException e) {
-            System.out.println(e.getMessage());
-        }
+//        catch (ArithmeticException e) {
+//            System.out.println(e.getMessage());
+//        }
         finally {
             System.out.println("C");
         }

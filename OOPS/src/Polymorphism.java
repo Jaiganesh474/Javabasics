@@ -2,7 +2,9 @@
 // Polymorhism - used to create many forms with same name of the single entity
 //usually consists of two types
 //METHOD OVERLOADING - means that using same method name but diff parameters
+// and it is compile time polymorphism
 //METHOD OVERRIDING - means that using the inheritance
+// and it is runtime polymorphism
 // where we can have multiple methods with the same name in parent and child classes.
 
 public class Polymorphism {
