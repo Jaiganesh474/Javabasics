@@ -7,9 +7,7 @@ public class LargestNumInArray {
     }
 
     private static int largest(int[] arr) {
-        if (arr.length == 0) {
-            return Integer.MIN_VALUE; // or throw an exception
-        }
+        
         int max = arr[0];
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] > max) {

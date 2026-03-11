@@ -7,8 +7,7 @@ public class ReverseWord {
         String[] words = str.split(" ");
         String result = "";
 
-        for (int i = 0; i < words.length; i++) {
-            String word = words[i];
+        for (String word : words) {
             String reverseWord = "";
 
             for (int j = word.length() - 1; j >= 0; j--) {
